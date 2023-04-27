@@ -2,4 +2,5 @@ rootProject.name = 'spring-mircoservices-demo'
 
 includeBuild 'eureka-server'
 includeBuild 'eureka-client'
+includeBuild 'api-gateway'
 
