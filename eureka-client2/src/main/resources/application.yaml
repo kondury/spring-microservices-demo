@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: eureka-client2
+  config:
+    import: configserver:http://localhost:8888
+  profiles:
+    active: micro

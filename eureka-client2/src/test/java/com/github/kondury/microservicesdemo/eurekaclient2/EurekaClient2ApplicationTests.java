@@ -1,10 +1,10 @@
-//package com.github.kondury.microservicesdemo.eurekaserver;
+//package com.github.kondury.microservicesdemo.eurekaclient2;
 //
 //import org.junit.jupiter.api.Test;
 //import org.springframework.boot.test.context.SpringBootTest;
 //
 //@SpringBootTest
-//class EurekaServerApplicationTests {
+//class EurekaClient2ApplicationTests {
 //
 //    @Test
 //    void contextLoads() {
